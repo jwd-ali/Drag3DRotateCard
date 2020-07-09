@@ -44,3 +44,19 @@ Then, run the following command:
 ```bash
 $ pod install
 ```
+
+### Manually
+
+If you prefer not to use a dependency manager, you can integrate RingPieChart into your project manually.
+
+- Add sources into your project:
+  - Drag `Rotate3DImageView.swift`
+  
+  ## Usage
+
+> If you are using any dependency manager (pods , carthage , package manager)to integrate RingPieChart. Import RingPieChart first:
+> ```swift
+> import Drag3DRotateCard
+> ```
+
+> And for Manuall install you dont need to import anything 
