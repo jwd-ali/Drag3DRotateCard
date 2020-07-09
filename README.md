@@ -47,16 +47,27 @@ $ pod install
 
 ### Manually
 
-If you prefer not to use a dependency manager, you can integrate RingPieChart into your project manually.
+If you prefer not to use a dependency manager, you can integrate Drag3DRotateCard into your project manually.
 
 - Add sources into your project:
   - Drag `Rotate3DImageView.swift`
   
   ## Usage
 
-> If you are using any dependency manager (pods , carthage , package manager)to integrate RingPieChart. Import RingPieChart first:
+> If you are using any dependency manager (pods , carthage , package manager)to integrate Drag3DRotateCard. Import Drag3DRotateCard first:
 > ```swift
 > import Drag3DRotateCard
 > ```
 
 > And for Manuall install you dont need to import anything 
+
+
+You need to simply initiate imageView with two images like this
+> ```swift
+ private var cardImage: Rotate3DImageView! = {
+        let imageView = Rotate3DImageView(frontImage: "frontCard", backImage: "backCard")
+        return imageView
+    }()
+ > ```
+ 
+ For better understanding framework inncludes example project as well
