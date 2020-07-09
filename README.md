@@ -72,3 +72,19 @@ You need to simply initiate imageView with two images like this
   ```
  
  For better understanding framework inncludes example project as well
+ 
+ Congratulations! You're done.
+
+
+
+
+## Contributing
+
+I’d love to have help on this project. For small changes please [open a pull request](https://github.com/jwd-ali/Drag3DRotateCard/pulls), for larger changes please [open an issue](https://github.com/jwd-ali/Drag3DRotateCard/issues) first to discuss what you’d like to see.
+
+
+License
+-------
+
+Drag3DRotateCard is under [MIT](https://opensource.org/licenses/MIT). See [LICENSE](LICENSE) file for more info.
+
