@@ -63,11 +63,12 @@ If you prefer not to use a dependency manager, you can integrate Drag3DRotateCar
 
 
 You need to simply initiate imageView with two images like this
-> ```swift
+
+ ```swift
  private var cardImage: Rotate3DImageView! = {
         let imageView = Rotate3DImageView(frontImage: "frontCard", backImage: "backCard")
         return imageView
     }()
- > ```
+  ```
  
  For better understanding framework inncludes example project as well
