@@ -1,6 +1,6 @@
 
 <img src="https://github.com/jwd-ali/TidalTestProject/blob/master/images/header/header.png">
-<img align="right" src="https://github.com/jwd-ali/Drag3DRotateCard/blob/master/images/ezgif.com-video-to-gif-17.gif" width="480" />
+<img align="right" src="https://github.com/jwd-ali/Drag3DRotateCard/blob/master/images/ezgif.com-video-to-gif-17.gif" width="480" height = "400"/>
 <p><h1 align="left">Drag3DRotateCard</h1></p>
 
 [![CI Status](https://travis-ci.org/jwd-ali/RingPieChart.svg)](https://travis-ci.org/jwd-ali/RingPieChart)
